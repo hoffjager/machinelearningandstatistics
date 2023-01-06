@@ -30,3 +30,13 @@ SciPy Optimize Curve Fit, SciPy, https://docs.scipy.org/doc/scipy/reference/gene
 Zach, How to Plot Line of Best Fit in Python (With Examples), Statology, https://www.statology.org/line-of-best-fit-python/  
 Ashley Michael, Fitting a Straight Line to Data Points, University of New South Wales, Australia, https://newt.phys.unsw.edu.au/~mcba/mcba12.pdf  
 
+Topic 3: Parameters (Polyfit, Polynomials)  
+
+Parameters are characteristics used to define a given population in a dataset.  
+Parameters can describe a specific characteristic from the entire population such as the mean.  
+
+References:  
+
+McLoughlin Ian, Machine Learning & Statistics Lecture Notes, ATU Galway, https://github.com/ianmcloughlin/2223-S1-machine-learn-stats/blob/main/notebooks/03-parameters.ipynb  
+CFI Team, Parameter, Corporate Finance Institute, https://corporatefinanceinstitute.com/resources/data-science/parameter/  
+NumPy Polyfit, EDUCBA, https://www.educba.com/numpy-polyfit  
