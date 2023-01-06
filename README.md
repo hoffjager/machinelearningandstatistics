@@ -15,3 +15,18 @@ What is Statistical Analysis? Types, Methods and Examples, Simplilearn, https://
 Zach, How to Perform Fisher’s Exact Test in Python, Statology, https://www.statology.org/fishers-exact-test-python/  
 SciPy Stats t-Test, SciPy, https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html  
 
+Topic 2: Models (Mathematical, Lines)  
+
+Data modelling refers to a set of tools used to understand how businesses should be using their valuable data.  
+It is critical that the data analysts create effective models that communicate vital information to upper management such as a good or bad change in a specified trend.  
+
+References:  
+
+McLoughlin Ian, Machine Learning & Statistics Lecture Notes, ATU Galway, https://github.com/ianmcloughlin/2223-S1-machine-learn-stats/blob/main/notebooks/02-models.ipynb  
+Data Analysis and Data Modelling - What's The Difference?, ICS, https://www.ics.ie/news/view/1517  
+Program to Plotting Absolute Function?, ePythonGuru, https://www.epythonguru.com/2019/11/how-to-plot-absolute-function.html  
+Grace Alfie, Python Absolute Value - abs() for real and complex numbers, LearnDataSci, https://www.learndatasci.com/solutions/python-absolute-value/  
+SciPy Optimize Curve Fit, SciPy, https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html  
+Zach, How to Plot Line of Best Fit in Python (With Examples), Statology, https://www.statology.org/line-of-best-fit-python/  
+Ashley Michael, Fitting a Straight Line to Data Points, University of New South Wales, Australia, https://newt.phys.unsw.edu.au/~mcba/mcba12.pdf  
+
